@@ -7,4 +7,4 @@ comments: true
 layout: post
 ---
 
-Safe travels to everyone. Looking forward to hanging out with family and friends tomorrow.
+Safe travels to everyone. I'm looking forward to hanging out with family and friends tomorrow.
