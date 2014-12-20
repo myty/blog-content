@@ -7,5 +7,7 @@ layout: page
 ---
 
 Full Name: ______
+
 Email Address: _______
+
 Message: _______
