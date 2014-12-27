@@ -1,13 +1,23 @@
 ---
 title: "About Me"
-subTitle: "Hello, my name is Michael."
+subTitle: "Hello, my name is Michael Tyson."
 headerBg: "/img/home-bg.jpg"
 date: 2014-12-02 -1100
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus sapien eu auctor. Etiam a odio posuere, rhoncus diam id, malesuada diam. Nulla non nisi efficitur, tempor metus ac, auctor nunc. Fusce egestas auctor mauris nec pellentesque. Proin malesuada in mauris eu faucibus. Praesent ac quam ultricies, placerat magna ac, pellentesque lectus. Sed varius velit sit amet augue euismod, at dignissim diam pretium. Nulla id euismod magna, at aliquam metus. Nulla ornare vehicula eros, eu aliquet magna.
+##About Me
+So who exactly am I?  I'm 37 years old.  I've been married for 6 years to my beautiful wife. Between the two of us, we have 5 children. I enjoy listening to an album the whole way through. I'll try any meal at least once. I'm a perfectionist (is there really any other way?).  I am also constantly fascinated and amazed at the change, innovation, and creativity that goes into the technology and software development worlds.
 
-Sed vitae augue ut justo sodales euismod vel vel lectus. Quisque erat nunc, euismod sed lacus vel, tincidunt maximus diam. Vestibulum efficitur leo hendrerit tellus maximus, ut ullamcorper ex hendrerit. Aenean lectus nisl, fermentum sit amet suscipit quis, commodo ut sem. Morbi id imperdiet mi. Praesent et ipsum a nibh ultricies rutrum et sit amet sapien. Proin fringilla at nisl ac pretium. Aenean eget justo in turpis luctus aliquet in in enim.
+This site is my attempt at both creating software that I am trully proud of as well as a way to get more involved. From the code that the website engine runs on to the content you read on each page, it is coded in the open.  You will most likely see typos, I will introduce bugs...and fix them, and at least once, I will probably be embarassed. 
 
-Donec vel massa ac tortor rutrum commodo. Nulla finibus ex sit amet arcu fringilla, sed ullamcorper justo dignissim. Praesent fermentum eu felis et aliquam. Morbi pulvinar metus et nibh aliquam porta. Maecenas porttitor pellentesque nulla, a pellentesque ipsum finibus non. In nec odio in neque porta ultrices. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ultrices venenatis augue, id fringilla nisl bibendum et. Praesent et luctus sapien, vitae imperdiet nibh. Integer ante dui, condimentum at dignissim vel, sollicitudin vel odio. Pellentesque et nulla tempus odio efficitur pulvinar porttitor eu neque. Nullam ut dapibus arcu, sit amet finibus risus. Praesent fermentum augue et sollicitudin varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam sed sem vitae arcu lobortis malesuada.
+##Site Code
+The code for this site engine is licensed under the MIT license and is located at: <https://github.com/myty/shiny-myty-website>. Feel free to fork and send your contributions.
+
+The content for the site is located at: <https://github.com/myty/slick-blog-content>. If you've found a typo or error please send a pull-request for the change.  Don't know how? This should get you on the right track: <https://help.github.com/articles/editing-files-in-another-user-s-repository>
+
+##Third-Party Code Used for Site
+- [Nancy](http://nancyfx.org/)
+- [RestSharp](http://restsharp.org/)
+- [Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/)
+- [Biggy](https://github.com/xivSolutions/biggy)
