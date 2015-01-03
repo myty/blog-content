@@ -16,7 +16,7 @@ This site is my attempt at both creating software that I am trully proud of as w
 ## Site Code
 The code for this site engine is licensed under the MIT license and is located at: <a href="https://github.com/myty/shiny-myty-website" target="_blank">https://github.com/myty/shiny-myty-website</a>. Feel free to fork and send your contributions.
 
-The content for the site is located at: <a href="https://github.com/myty/blog-content" target="_blank">https://github.com/myty/blog-content</a>. If you've found a typo or error please send a pull-request for the change.  Don't know how? This should get you on the right track: <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository" target="_blank">https://help.github.com/articles/editing-files-in-another-user-s-repository</a>
+The content for the site is located at: <a href="https://github.com/myty/blog-content" target="_blank">https://github.com/myty/blog-content</a>. If you've found a typo or an error, please send a pull-request for the change.  Don't know how? This should get you on the right track: <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository" target="_blank">https://help.github.com/articles/editing-files-in-another-user-s-repository</a>
 
 ## Third-Party Code Used for Site
 - <a href="http://nancyfx.org/" target="_blank">Nancy</a>
