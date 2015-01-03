@@ -3,6 +3,8 @@ title: "About Me"
 subTitle: "Hello, my name is Michael Tyson."
 headerBg: "/img/home-bg.jpg"
 date: 2014-12-02 -1100
+siteMenu: "About"
+siteMenuOrder: 0
 layout: page
 ---
 
