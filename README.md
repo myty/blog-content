@@ -1,4 +1,4 @@
-slick-blog-content
+blog-content
 ==================
 
 Content for personal blog
