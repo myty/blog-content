@@ -8,4 +8,4 @@ siteMenuOrder: 1
 layout: page
 ---
 
-Projects list coming soon!
+Projects coming soon!
