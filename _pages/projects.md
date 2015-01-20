@@ -8,11 +8,4 @@ siteMenuOrder: 1
 layout: page
 ---
 
-<div class="row">
-  <div class="col-md-6">
-    Muse
-  </div>
-  <div class="col-md-6">
-    My Neighbor And Me
-  </div>
-</div>
+Projects coming soon.
