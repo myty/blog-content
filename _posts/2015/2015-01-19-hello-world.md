@@ -1,8 +1,8 @@
 ---
 title: "Hello, World"
 subTitle: "It's a cold, dark, scary place...turns out, it's not so cold."
-headerBg: "/img/forest-high-hdr.jpg"
-date: 2014-12-13 -1100
+headerBg: "/img/adventure-bus-car.jpg"
+date: 2015-01-19 -1100
 author: "Michael Tyson"
 authorUrl: "/about"
 comments: true
