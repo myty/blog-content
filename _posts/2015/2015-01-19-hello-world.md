@@ -15,6 +15,6 @@ I also want to be a part of a developer community that has similar goals and int
 
 This site (why wouldn't it be) is based on a blog engine that I'm calling, [Muse](http://github.com/myty/muse).  Feel free to check out the code. Fork it. Make it better. Send me your feedback. Hopefully it's good, but I'll take the bad too. Over the next couple of months I will attempt to explain some of the adventures in building Muse.
 
-My wife thinks I'm a genius. I'd say, I'm sufficient at best. This is my way of forcing myself to become a better developer, to get involved, and to reject the notion that I'm not good enough or that I don't belong...and just maybe get closer to the status of genius that my wife thinks I am.
+My wife thinks I'm a genius. I'd say, I'm sufficient at best. This is my way of forcing myself to become a better developer, to get involved, and to reject the notion that I'm not good enough or that I don't belong...and just maybe get closer to the status of genius that my dear wife thinks I am.
 
 Hello, world. I am Michael Tyson.
