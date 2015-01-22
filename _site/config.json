@@ -3,7 +3,7 @@
   "siteTitle": "Easily Amused",
   "siteSubTitle": "Exploring the world of .NET and beyond",
   "defaultImg": "abstract-lights-motion.jpg",
-  "social":{
+  "socialLinks":{
     "twitter": "mytydev",
     "github": "myty"
   }
