@@ -2,5 +2,9 @@
   "id": "easily-amused",
   "siteTitle": "Easily Amused",
   "siteSubTitle": "Exploring the world of .NET and beyond",
-  "defaultImg": "abstract-lights-motion.jpg"
+  "defaultImg": "abstract-lights-motion.jpg",
+  "social":{
+    "twitter": "mytydev",
+    "github": "myty"
+  }
 }
