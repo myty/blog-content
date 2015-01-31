@@ -10,7 +10,7 @@ layout: post
 ---
 
 ### First Impressions
-If your childhood was anything like mine, you probably heard your mother say more than once, "You never get a second chance to make a first impression."  This, of course, was ultimately followed by a rolling of the eyes or anything that constituted a complete distaste for an obvious statement disguised as being profound. Like all good things from your youth, this naivety will eventually come to an end and at some point in your adult life you will most definitely acknowledge the wisdom in that statement.
+If your childhood was anything like mine, you probably heard your mother say more than once, "You never get a second chance to make a first impression."  This, of course, was ultimately followed by a rolling of the eyes or anything that constituted a complete distaste for an obvious statement under the guise of being profound. Like all good things from your youth, this naivety will eventually come to an end and at some point in your adult life you will most definitely acknowledge the wisdom in that statement.
 
 If you plan on starting an open source software project, you'll want to remember this advice. Just like combing your hair and brushing your teeth are good practice, having a well written and understandable README is the key to making sure you grab the attention of the curious and keep the skeptical reading.
 
