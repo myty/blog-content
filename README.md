@@ -1,4 +1,4 @@
-blog-content
-==================
+Content for Easily Amused: http://mytydev.com
+=============================================
 
-Content for personal blog
+This content repository is the source for a website engine called, Muse. Go to https://github.com/myty/muse to find out more.
