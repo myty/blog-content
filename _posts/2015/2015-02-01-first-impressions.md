@@ -2,7 +2,7 @@
 title: "The First Impression To Your Open Source Project"
 subTitle: "Having a well written and understandable README file is the key to making sure you grab the attention of the curious and keep the skeptical reading."
 headerBg: "/img/button-fashion.jpg"
-date: 2015-01-31 -1100
+date: 2015-02-01 -1100
 author: "Michael Tyson"
 authorUrl: "/about"
 comments: true
