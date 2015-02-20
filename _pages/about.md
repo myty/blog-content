@@ -21,6 +21,6 @@ The content for the site is located at: <a href="https://github.com/myty/blog-co
 
 ## Third-Party Code Used for Site
 - <a href="http://nancyfx.org/" target="_blank">Nancy</a>
-- <a href="http://restsharp.org/" target="_blank">RestSharp</a>
+- <a href="http://restsharp.org/" target="_blank">ReactiveGit</a>
 - <a href="http://startbootstrap.com/template-overviews/clean-blog/" target="_blank">Start Bootstrap</a>
 - <a href="https://github.com/xivSolutions/biggy" target="_blank">Biggy</a>
